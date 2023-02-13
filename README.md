@@ -1,2 +1,2 @@
 # Project
-It is a deduplication application developed using PHP.
+It is a two phase data deduplication application developed using Java.
